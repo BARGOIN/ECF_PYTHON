@@ -1,0 +1,11 @@
+Le jeu se lance à partir du fichier main.py.
+
+
+Le changement de mot aleatoire à chaque debut de partie 
+se fait en executant le fichier: start_mot_aleatoire.py 
+et se voit en console
+
+Tout comme le pendu n est pas relier au reste du code et 
+ne repond pas aux erreurs du joueur, mais fonctionne a 
+chaque clic sur le bouton A
+
